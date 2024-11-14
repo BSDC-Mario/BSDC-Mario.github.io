@@ -1,0 +1,22 @@
+html {
+    border: solid 2px green;
+    height: 100%;
+    background-image: url("ascendlogo.png");
+    background-size: cover;
+    background-position: center;
+}
+
+
+body {
+
+   /* background-color: aquamarine; */
+    border: solid 2px red;
+    height: 100%;
+    margin: 0px;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: right;
+}
